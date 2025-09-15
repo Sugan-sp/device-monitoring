@@ -1,0 +1,6 @@
+{
+  "builds": [],
+  "installCommand": "echo 'Skipping install step...'",
+  "buildCommand": "bash build-docker.sh",
+  "outputDirectory": "."
+}
